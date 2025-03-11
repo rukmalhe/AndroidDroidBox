@@ -15,10 +15,10 @@ DroidBox can be used to get an overview of malicious activities triggered by the
   In this project I’m going to analysis how to use Droidbox for analysing the malware in ART and what are the possible solutions to compile Droidbox to fix ART issues.
 
 ## docs
-Research report
-Project Proposal
-Research finding report
-Installation and Test Data preparation User guide
+Research report<br>
+Project Proposal<br>
+Research finding report<br>
+Installation and Test Data preparation User guide<br>
 
 ## Data
 
