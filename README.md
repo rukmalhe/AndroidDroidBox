@@ -11,7 +11,7 @@ DroidBox can be used to get an overview of malicious activities triggered by the
 
 ## Key Findings
 
-* DroidBox is build on Dalvik Runtime environment and currently it become obsolete with the new Android ART upgrade.
+* DroidBox is build on Dalvik Runtime environment(Android 4.4 to 5.0) and currently it become obsolete with the new Android ART upgrade(Android 5.0 Lollipop).
   In this project I’m going to analysis how to use Droidbox for analysing the malware in ART and what are the possible solutions to compile Droidbox to fix ART issues.
 
 ## docs
